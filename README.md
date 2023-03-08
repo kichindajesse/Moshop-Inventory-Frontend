@@ -5,6 +5,8 @@ USAGE
 Clone the backend from  https://github.com/kichindajesse/Moshop-Inventory-Backend
 Once the server is running, open your web browser and navigate to http://localhost:9292. You should see the MoShop Inventory interface, which consists of a table displaying all of the products in the inventory.
 
+Start the frontend by running npm install followed by npm start
+
 To add a new product, click the "CREATE" button and fill in the form with the product's details. To update an existing product, click the "Edit" button next to the product in the table and make your changes in the form. To delete a product, click the "Delete" button next to the product in the table.
 
 CONTRIBUTING
